@@ -53,8 +53,7 @@
     "react-motion": "^0.4 || ^0.5"
   },
   "dependencies": {
-    "prop-types": "^15.6.0",
-    "react-motion": "^0.5.2"
+    "prop-types": "^15.6.0"
   },
   "devDependencies": {
     "babel-cli": "^6.26.0",
@@ -88,6 +87,7 @@
     "rimraf": "^2.6.2",
     "serve-static": "^1.13.1",
     "style-loader": "^0.19.1",
+    "react-motion": "^0.5.2",
     "tape": "^4.8.0",
     "webpack": "^3.10.0",
     "webpack-dev-server": "^2.10.1"
